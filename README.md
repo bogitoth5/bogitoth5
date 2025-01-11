@@ -2,7 +2,7 @@
 
 👩‍🎓 About
 
-I am a liberal arts graduate looking to transition data and find my fist job as a Data Analyst<br/>
+I am a liberal arts graduate looking to transition data and find my first job as a Data Analyst<br/>
 I am currently in the process of learning Excel, Power BI, Tableau and MySQL<br/>
 
 🔭 I’m currently working on
