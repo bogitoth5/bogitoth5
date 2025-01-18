@@ -10,7 +10,7 @@ I am currently in the process of learning Excel, Power BI, Tableau and MySQL<br/
 My Tableau skills<br/>
 My SQL skills<br/>
 
-📖 Courses that I finished
+📖 Courses that I completed
 
 Analyst Builder - MySQL for Data Analytics<br/>
 Analyst Builder - Tableau for Data Visualization<br/>
