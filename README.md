@@ -2,22 +2,29 @@
 
 👩‍🎓 **About**
 
-I am a liberal arts graduate looking to transition data and find my first job as a Data Analyst<br/>
-I am currently in the process of learning Excel, Power BI, Tableau and MySQL<br/>
+I'm a liberal arts graduate making a career pivot into data analytics. With a strong foundation in critical thinking and a passion for uncovering insights, I'm currently building hands-on experience through self-led projects using SQL, Excel, Power BI, and Tableau.<br/>
 
 🔭 **I’m currently working on**
 
-My Tableau skills<br/>
-My SQL skills<br/>
+- Strengthening my **SQL skills** through data cleaning and analysis projects<br/>
+- Building interactive **Power BI dashboards** for real-world datasets<br/>
+- Practicing EDA (Exploratory Data Analysis) in **Excel**<br/>
 
 📖 **Courses that I completed**
 
-Analyst Builder - MySQL for Data Analytics<br/>
-Analyst Builder - Tableau for Data Visualization<br/>
+**MySQL for Data Analytics** – Analyst Builder (Maven Analytics)<br/>
+**Tableau for Data Visualization** – Analyst Builder (Maven Analytics)<br/>
 
 📊 **Data Projects I made**
 
-Tableau, MySQL - [Streaming Video Subscriptions (Maven Analytics)](https://github.com/bogitoth5/PortfolioProjects/tree/main/MavenFlix_Analysis)
+[Streaming Video Subscriptions (Maven Analytics)](https://github.com/bogitoth5/PortfolioProjects/tree/main/MavenFlix_Analysis)<br/>
+**Tools:** SQL, Tableau<br/>
+Explored user retention trends using SQL and visualized key KPIs with Tableau dashboards.
+
+(Coming soon) Café Sales Analysis<br/>
+**Tools:** Excel, SQL, Power BI<br/>
+Performed EDA in Excel and SQL, currently designing a Power BI dashboard to uncover trends in product sales and profit.
+
 
 
 <!--
