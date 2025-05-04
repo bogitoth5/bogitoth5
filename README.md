@@ -17,7 +17,7 @@ Analyst Builder - Tableau for Data Visualization<br/>
 
 📊 Data Projects I made
 
-Tableau, MySQL - Streaming Video Subscriptions (Maven Analytics)<br/>
+Tableau, MySQL - [Streaming Video Subscriptions (Maven Analytics)](https://github.com/bogitoth5/PortfolioProjects/tree/main/MavenFlix_Analysis)
 
 
 <!--
