@@ -1,21 +1,21 @@
 ### Hi, I'm Bogi
 
-👩‍🎓 About
+👩‍🎓 **About**
 
 I am a liberal arts graduate looking to transition data and find my first job as a Data Analyst<br/>
 I am currently in the process of learning Excel, Power BI, Tableau and MySQL<br/>
 
-🔭 I’m currently working on
+🔭 **I’m currently working on**
 
 My Tableau skills<br/>
 My SQL skills<br/>
 
-📖 Courses that I completed
+📖 **Courses that I completed**
 
 Analyst Builder - MySQL for Data Analytics<br/>
 Analyst Builder - Tableau for Data Visualization<br/>
 
-📊 Data Projects I made
+📊 **Data Projects I made**
 
 Tableau, MySQL - [Streaming Video Subscriptions (Maven Analytics)](https://github.com/bogitoth5/PortfolioProjects/tree/main/MavenFlix_Analysis)
 
