@@ -4,6 +4,9 @@
 
 I'm a liberal arts graduate making a career pivot into data analytics. With a strong foundation in critical thinking and a passion for uncovering insights, I'm currently building hands-on experience through self-led projects using SQL, Excel, Power BI, and Tableau.<br/>
 
+**My Goal:**
+🎯 Actively seeking a junior data analyst role to apply my skills in real-world business contexts.
+
 🔭 **I’m currently working on**
 
 - Strengthening my **SQL skills** through data cleaning and analysis projects<br/>
